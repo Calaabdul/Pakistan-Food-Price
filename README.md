@@ -5,11 +5,11 @@ Food prices can fluctuate due to various factors such as weather conditions and 
 ## Data Description
 The dataset includes historical prices of various food items from 2004 to 2019 in different regions of Pakistan. 
 It includes additional features such as:
-- Date : 
+- Date : Date when observation was recorded
 - commododity name: Name of food item
 - unit: Unit of measurement
-- category
-- price
+- category: Category of food item
+- price : Price of food item
 - currency: Currency unit
 - country: Country name
 - admname: Adm1 name
@@ -23,8 +23,8 @@ It includes additional features such as:
 - sn : Meta ID
 
 ### Data Sources
-- The data was collected from  World Food Programme.[World Food Program](https://www.wfp.org/)
-- (https://data.worldbank.org/)https://www.kaggle.com/datasets/hussainaliarif/pakistan-food-prices/data
+- [kaggle]( https://www.kaggle.com/datasets/hussainaliarif/pakistan-food-prices/data )
+- The data was collected from  World Food Programme.[World Food Program](https://www.wfp.org/) 
 
 ## Models
 I experimented with several models including:
