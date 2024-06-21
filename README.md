@@ -1,7 +1,5 @@
 # Pakistan Food Price Prediction
-## This project aims to predict the prices of various food items in Pakistan using Machine Learning. Accurate food price predictions can help in decision making for farmers, consumers, and government, leading to better food security and economic stability.
-
-## Introduction
+This project aims to predict the prices of various food items in Pakistan using Machine Learning. Accurate food price predictions can help in decision making for farmers, consumers, and government, leading to better food security and economic stability.
 Food prices can fluctuate due to various factors such as weather conditions and economical reasons like inflation, market demand, and supply chain issues. This project uses machine learning to analyze these factors and predict future prices.
 
 ## Data Description
@@ -29,12 +27,9 @@ It includes additional features such as:
 - (https://data.worldbank.org/)https://www.kaggle.com/datasets/hussainaliarif/pakistan-food-prices/data
 
 ## Models
-We experimented with several models including:
+I experimented with several models including:
 - Ridge Regression
 - Decision Trees
 
-The models were evaluated based on R-squared (R²) performance metric.
-
-## Results
-The best-performing model was the Ridge, which achieved an R2 of 0.99 on the test set.
+The models were evaluated based on R-squared (R²) performance metric.The best-performing model was the Ridge
 
